@@ -1,4 +1,3 @@
-# Creating your first ApexChart
+# Creating your realtime ApexChart
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/apexcharts/pen/xYqyYm](https://codepen.io/apexcharts/pen/xYqyYm).
-
+This source help you to show your data in realtime chart.
